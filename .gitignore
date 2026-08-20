@@ -1,0 +1,15 @@
+node_modules
+.next
+.vercel
+dist
+test-results
+playwright-report
+.wrangler
+.env*
+*.tsbuildinfo
+.DS_Store
+
+# 로컬 개발 도구
+.agents/
+.claude/
+skills-lock.json
